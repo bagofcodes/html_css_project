@@ -1,0 +1,110 @@
+.mhead{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.heading1{
+    font-size: large;
+    font-weight: bold;
+}
+
+.imgformat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.preblock{
+    white-space: pre;
+    display: block;
+    font-size: 15px;
+    font-weight: 200;
+    color: rgb(95, 10, 10);
+}
+code{
+    font-size: x-large;
+    color: rgb(150, 26, 26);
+}
+
+.fontformat{
+    color: #0000ff;
+}
+.boldfont{
+    font-weight: bold;
+}
+
+table.metric {
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#ffffff
+}
+table.metric td{
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#ffffff
+}
+table.metric th{
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #cccccc
+}
+.srf{
+    background-color: #ffffff;
+}
+.crf{
+    background-color: #cccccc;
+}
+#spanf{
+    color:"#000000";
+    font-weight: bolder;
+    font-size: 16px;
+}
+table.rowformat{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+table.rowformat tr{
+    background-color: #dddddd;
+}
+table.rowformat td{
+    width: 44px;
+    height: 44px;
+    border-width: 0.90px;
+    border-style: solid;
+    border-color: gray;
+    padding:6px
+}
+.imgformat2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 44px;
+    height: 44px;
+}
+table.t2{
+    margin-left:  auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 20px;
+}
+table.t2 td{
+    text-align: left;
+}
+table.t2 tr{
+    text-align: left;
+}
+.fontr{
+    color: #0000ff;
+    font-style: italic;
+    font-size: x-large;
+
+}
+.fontre{
+    color: #000000;
+    font-size: x-large;
+    font-weight: bolder;
+}
